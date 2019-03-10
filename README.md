@@ -5,4 +5,4 @@ Tech: C++
 
 Features:
 - One Player
-- Good graphics
+- Graphics
